@@ -1,0 +1,50 @@
+{
+	"descripción": "lista de participantes en el curso",
+	"participantes": [{
+			"nombre": "Javiera Vidal Parra",
+			"fecha_de_nacimiento": "14091994",
+			"estudios": [{
+					"nivel": "pregrado",
+					"titulo": "diseñadora de ambientes y objetos",
+					"institución": "universidad del desarrollo",
+					"año": "2018"
+
+				},
+				{
+					"nivel": "pasantia",
+					"titulo": "visual merchandising retail and communication design",
+					"institución": "politecnico de milan",
+					"año": "2016"
+
+				},
+				{
+					"nivel": "postgrado",
+					"titulo": "magister diseño e innovación sostenible",
+					"institución": "universidad del desarrollo",
+					"año": "2021"
+
+				}
+
+			],
+			"trabajo": [{
+					"cargo": "diseñadora de ambientes y objetos",
+					"institución": "christian erdmann studio design ",
+					"inicio": {
+						"año": "2019",
+						"mes": "10"
+
+					},
+					"duración": {
+						"años": "0",
+						"meses": "8"
+
+					}
+
+				}
+
+			]
+
+		}
+
+	]
+}
