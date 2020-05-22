@@ -1,79 +1,75 @@
 {
-  "descripción":"lista de participantes en el curso",
-  "participantes":[
-    {
-      "nombre":"Nicolás Troncoso López",
-      "fecha_de_nacimiento":"28071982",
-      "estudios":[
-        {
-          "nivel":"pregrado",
-          "titulo":"diseñador industrial",
-          "institución":"universidad andres bello",
-          "año":"2007"
-        },
-        {
-          "nivel":"postgrado",
-          "titulo":"magister en tecnologías del diseño",
-          "institución":"universidad andres bello",
-          "año":"2008"
-        },
-        {
-          "nivel":"diplomado",
-          "titulo":"ciencia de datos",
-          "institución":"universidad de chile",
-          "año":"2018"
-        }
-      ],
-      "trabajo":[
-        {
-          "cargo":"profesor representación de la información y visualización de datos",
-          "institución":"universidad del desarrollo",
-          "inicio":{
-            "año":"2020",
-            "mes":"05"
-          },
-          "duración":{
-            "años":"0",
-            "meses":"2"
-          }
-        },
-        {
-          "cargo":"residente fablab",
-          "institución":"universidad de chile",
-          "inicio":{
-            "año":"2019",
-            "mes":"04"
-          },
-          "duración":{
-            "años":"1",
-            "meses":"0"
-          }
-        },
-        {
-          "cargo":"investigador interfacultades udd",
-          "institución":"universidad del desarrollo",
-          "inicio":{
-            "año":"2019",
-            "mes":"01"
-          },
-          "duración":{
-            "años":"1",
-            "meses":"5"
-          }
-        },
-        {
-          "cargo":"profesor udd - programación creativa - representación de la información - taller de interacción(*)",
-          "institución":"universidad del desarrollo",
-          "inicio":{
-            "año":"2015",
-            "mes":"07"
-          },
-          "duración":{
-            "años":"4",
-            "meses":"10"
-          }
-        }
-      ]
-    }
-  ]
+	"descripción": "lista de participantes en el curso",
+	"participantes": [{
+		"nombre": "Nicolás Troncoso López",
+		"fecha_de_nacimiento": "28071982",
+		"estudios": [{
+				"nivel": "pregrado",
+				"titulo": "diseñador industrial",
+				"institución": "universidad andres bello",
+				"año": "2007"
+			},
+			{
+				"nivel": "postgrado",
+				"titulo": "magister en tecnologías del diseño",
+				"institución": "universidad andres bello",
+				"año": "2008"
+			},
+			{
+				"nivel": "diplomado",
+				"titulo": "ciencia de datos",
+				"institución": "universidad de chile",
+				"año": "2018"
+			}
+		],
+		"trabajo": [{
+				"cargo": "profesor representación de la información y visualización de datos",
+				"institución": "universidad del desarrollo",
+				"inicio": {
+					"año": "2020",
+					"mes": "05"
+				},
+				"duración": {
+					"años": "0",
+					"meses": "2"
+				}
+			},
+			{
+				"cargo": "residente fablab",
+				"institución": "universidad de chile",
+				"inicio": {
+					"año": "2019",
+					"mes": "04"
+				},
+				"duración": {
+					"años": "1",
+					"meses": "0"
+				}
+			},
+			{
+				"cargo": "investigador interfacultades udd",
+				"institución": "universidad del desarrollo",
+				"inicio": {
+					"año": "2019",
+					"mes": "01"
+				},
+				"duración": {
+					"años": "1",
+					"meses": "5"
+				}
+			},
+			{
+				"cargo": "profesor udd - programación creativa - representación de la información - taller de interacción(*)",
+				"institución": "universidad del desarrollo",
+				"inicio": {
+					"año": "2015",
+					"mes": "07"
+				},
+				"duración": {
+					"años": "4",
+					"meses": "10"
+				}
+			}
+		]
+	}]
 }

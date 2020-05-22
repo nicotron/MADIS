@@ -13,5 +13,3 @@ Requisitos
 - Descargar archivo [data.json](https://github.com/nicotron/MADIS/blob/master/data.json)
 
 - Descargar template [p5js empty example](https://github.com/nicotron/MADIS/tree/master/empty-example)
-
-- Entrar al canal de Slack [MADIS](https://jardinjardin.slack.com/archives/G0141BN4FNC) (los añadiré durante la clase)
