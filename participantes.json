@@ -77,94 +77,92 @@
 		{
 			"nombre":"María José Ricaurte Arriagada",
       		"fecha_de_nacimiento":"14091993",
-      		"estudios":[
-        {
-          "nivel":"pregrado",
-          "titulo":"diseñador gráfico",
-          "institución":"universidad del desarrollo",
-          "año":"2016"
-        },
-        {
-          "nivel":"pasantía",
-          "titulo":"visual merchandising",
-          "institución":"politécnico de milán",
-          "año":"2016"
-        },
-        {
-          "nivel":"postgrado",
-          "titulo":"magister en diseño e innovación sostenible",
-          "institución":"universidad del desarrollo",
-          "año":"2021"
-        },
-        {
-          "nivel":"diplomado",
-          "titulo":"diseño de servicios",
-          "institución":"universidad del desarrollo",
-          "año":"2018"
-        }
-      ],
-      "trabajo":[
-        {
-          "cargo":"servicio al cliente",
-          "institución":"mplot impresores",
-          "inicio":{
-            "año":"2013",
-            "mes":"04"
-          },
-          "duración":{
-            "años":"01",
-            "meses":"08"
-          }
-        },
-        {
-          "cargo":"diseñador gráfico",
-          "institución":"agencia digital bigbuda",
-          "inicio":{
-            "año":"2015",
-            "mes":"11"
-          },
-          "duración":{
-            "años":"02",
-            "meses":"06"
-          }
-        },
-        {
-          "cargo":"asistente comercial",
-          "institución":"a impresores s.a.",
-          "inicio":{
-            "año":"2017",
-            "mes":"03"
-          },
-          "duración":{
-            "años":"0",
-            "meses":"07"
-          }
-        },
-        {
-          "cargo":"ejecutiva comercial",
-          "institución":"a impresores s.a.",
-          "inicio":{
-            "año":"2017",
-            "mes":"10"
-          },
-          "duración":{
-            "años":"1",
-            "meses":"11"
-          }
-        },
-        {
-          "cargo":"subgerente digital",
-          "institución":"a impresores s.a.",
-          "inicio":{
-            "año":"2019",
-            "mes":"09"
-          },
-          "duración":{
-            "años":"0",
-            "meses":"08"
-          }
-          }
-      ]
-    }
+      		"estudios":[{
+					"nivel":"pregrado",
+					"titulo":"diseñador gráfico",
+					"institución":"universidad del desarrollo",
+					"año":"2016"
+				},
+		        {
+					"nivel":"pasantía",
+					"titulo":"visual merchandising",
+					"institución":"politécnico de milán",
+					"año":"2016"
+		        },
+	        	{
+					"nivel":"postgrado",
+		          	"titulo":"magister en diseño e innovación sostenible",
+		          	"institución":"universidad del desarrollo",
+	          		"año":"2021"
+	        	},
+	        	{
+	          		"nivel":"diplomado",
+	          		"titulo":"diseño de servicios",
+	          		"institución":"universidad del desarrollo",
+	          		"año":"2018"
+	        	}
+      		],
+	      	"trabajo":[{
+		          	"cargo":"servicio al cliente",
+		          	"institución":"mplot impresores",
+		          	"inicio":{
+		            	"año":"2013",
+		            	"mes":"04"
+		          	},
+		          	"duración":{
+		            	"años":"01",
+		            	"meses":"08"
+		          	}
+	        	},
+		        {
+		          	"cargo":"diseñador gráfico",
+		          	"institución":"agencia digital bigbuda",
+		          	"inicio":{
+		            	"año":"2015",
+		            	"mes":"11"
+		          	},
+		          	"duración":{
+		            	"años":"02",
+		            	"meses":"06"
+		          	}
+		        },
+		        {
+		          	"cargo":"asistente comercial",
+		          	"institución":"a impresores s.a.",
+		          	"inicio":{
+		            	"año":"2017",
+		            	"mes":"03"
+		          	},
+		          	"duración":{
+	            		"años":"0",
+		            	"meses":"07"
+		          	}
+		        },
+		        {
+		          	"cargo":"ejecutiva comercial",
+	          		"institución":"a impresores s.a.",
+		          	"inicio":{
+		            	"año":"2017",
+		            	"mes":"10"
+		          	},
+		          	"duración":{
+		            	"años":"1",
+		            	"meses":"11"
+		          	}
+		        },
+		        {
+		          	"cargo":"subgerente digital",
+		          	"institución":"a impresores s.a.",
+		          	"inicio":{
+		            	"año":"2019",
+		            	"mes":"09"
+		          	},
+		          	"duración":{
+		            	"años":"0",
+		            	"meses":"08"
+		          	}
+	          	}
+	      	]
+    	}
 	]
 }
