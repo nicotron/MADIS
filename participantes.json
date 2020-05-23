@@ -165,94 +165,80 @@
 	      	]
     	},
 		{
-	      "nombre": "Pía Garrido Bernales",
-	      "fecha_de_nacimiento": "08091981",
-	      "estudios":
-	      [
-	        {
-	          "nivel": "pregrado",
-	          "titulo":"arquitecta",
-	          "institución": "Universidad de Santiago de Chile",
-	          "año": "2016"
-	        },
-	        {
-	          "nivel":"diplomado",
-	          "titulo":"Postitulo Sistemas de Información Geográfico",
-	          "institución": "Universidad de Chile",
-	          "año":2016
-	        }
-	      ],
-	      "trabajo":
-	      [
-	        {
-	        "cargo":"Profesional Área de Proyectos Depto. Infraestructura y Equipamiento Educacional",
-	        "institución": "Dirección de Educación Pública",
-	        "Inicio":
-	          {
-	          "año":2018,
-	          "mes":2
-	          },
-	        "duración":
-	          {
-	          "años":2,
-	          "meses":3
-	          }
-	        },
-	        {
-	        "cargo":"Profesional Área de Proyectos Depto. Infraestructura Escolar",
-	        "institución": "Ministerio de Educación",
-	        "Inicio":
-	          {
-	          "año":2018,
-	          "mes":2
-	          },
-	        "duración":
-	          {
-	          "años":2,
-	          "meses":3
-	          }
-	        },
-	        {
-	        "cargo":"Cofundadora",
-	        "institución":"CONTEXTO Servicios",
-	        "inicio":
-	          {
-	          "año":2011,
-	          "mes":11
-	          },
-	        "duración":
-	          {
-	          "años":0,
-	          "meses":6
-	          }
-	        },
-	        {
-	        "cargo":"Coordinadora Regional de Infraestructura Escolar",
-	        "institución":"Secretaría Regional Ministerial de Educación",
-	        "inicio":
-	          {
-	          "año":2009,
-	          "mes":1
-	          },
-	        "duración":
-	          {
-	          "años":4,
-	          "meses":4
-	          }
-	        },
-	        {
-	        "cargo":"Encargada Secretaría Comunal de Planificación",
-	        "institución":"Municipalidad de Taltal",
-	        "inicio":
-	          {
-	          "año":2006,
-	          "mes":3
-		    },
-	        "duración":
-	          {
-	          "años":2,
-	          "meses":8
-	          }
+	      	"nombre": "Pía Garrido Bernales",
+	      	"fecha_de_nacimiento": "08091981",
+	      	"estudios":[{
+		          	"nivel": "pregrado",
+		          	"titulo":"arquitecta",
+		          	"institución": "Universidad de Santiago de Chile",
+		          	"año": 2016
+		        },
+		        {
+		          	"nivel":"diplomado",
+		          	"titulo":"Postitulo Sistemas de Información Geográfico",
+		          	"institución": "Universidad de Chile",
+		          	"año":2016
+		        }
+	      	],
+	      	"trabajo": [{
+					"cargo":"Profesional Área de Proyectos Depto. Infraestructura y Equipamiento Educacional",
+					"institución": "Dirección de Educación Pública",
+					"Inicio": {
+						"año":2018,
+						"mes":2
+					},
+					"duración": {
+						"años":2,
+						"meses":3
+					}
+	        	},
+	        	{
+        			"cargo":"Profesional Área de Proyectos Depto. Infraestructura Escolar",
+					"institución": "Ministerio de Educación",
+					"Inicio": {
+						"año":2018,
+						"mes":2
+					},
+					"duración": {
+						"años":2,
+						"meses":3
+					}
+				},
+				{
+					"cargo":"Cofundadora",
+					"institución":"CONTEXTO Servicios",
+					"inicio": {
+						"año":2011,
+						"mes":11
+					},
+					"duración": {
+						"años":0,
+						"meses":6
+					}
+				},
+				{
+					"cargo":"Coordinadora Regional de Infraestructura Escolar",
+					"institución":"Secretaría Regional Ministerial de Educación",
+					"inicio": {
+						"año":2009,
+						"mes":1
+					},
+					"duración": {
+						"años":4,
+						"meses":4
+					}
+				},
+				{
+					"cargo":"Encargada Secretaría Comunal de Planificación",
+					"institución":"Municipalidad de Taltal",
+					"inicio": {
+						"año":2006,
+						"mes":3
+					},
+					"duración": {
+						"años":2,
+						"meses":8
+					}
 	        }
 	      ]
 	    }
