@@ -241,6 +241,53 @@
 					}
 	        }
 	      ]
-	    }
+	  	},
+		{
+             “nombre”:“Esteban Legrand Guzmán”,
+             “fecha_de_nacimiento”:“26051977",
+             “estudios”:[
+            {
+             “nivel”:“pregrado”,
+             “titulo”:“Diseñador industrial”,
+             “institución”:“DUOC UC”,
+             “año”:“2000”
+            }],
+            “trabajo”:[
+           {
+             “cargo”:“Propietario”,
+             “institución”:“LK Diseño Ltda”,
+             “inicio”:{
+             “año”:“2006”,
+             “mes”:“07”
+           },
+             “duración”:{
+             “años”:“13",
+             “meses”:“05"}
+           },
+           {
+              “cargo”:“Gerente General y Representante Legal”,
+              “institución”:“Tools Sociedad Anonima”,
+              “inicio”:{
+              “año”:“2003”,
+              “mes”:“07”
+           },
+              “duración”:{
+              “años”:“03",
+              “meses”:“06"}
+            },
+            {
+              “cargo”:“Diseñador”,
+              “institución”:“Estudio 3161 Sociedad Anonima”,
+              “inicio”:{
+              “año”:“2001”,
+              “mes”:“01”
+             },
+              “duración”:{
+              “años”:“02",
+              “meses”:“05"
+              }
+              }
+            ]
+          }
 	]
 }
