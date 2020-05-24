@@ -328,7 +328,7 @@
 					"duración": {
 						"años":"1",
 						"meses":"4"
-					},
+					}
 				},
 				{
 					"cargo":"Jefe de proyectos DO",
@@ -340,7 +340,7 @@
 					"duración": {
 						"años": "0",
 						"meses":"11"
-					},
+					}
 				},
 				{
 					"cargo":"Project manager",
@@ -352,7 +352,7 @@
 					"duración": {
 						"años":"0",
 						"meses":"10"
-					},
+					}
 				},
 				{
 					"cargo":"Memorista",
@@ -364,7 +364,7 @@
 					"duración": {
 						"años":"1",
 						"meses":"3"
-					},
+					}
 				},
 			],
 		},
