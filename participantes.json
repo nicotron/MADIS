@@ -289,6 +289,84 @@
  					}
  				}
             ]
-      	}
+      	},
+		{
+			"nombre": “Natalia Tapia Luengo”,
+			"fecha_de_nacimiento": “07111990”,
+			"estudios": [{
+					"nivel": "pregrado",
+					"titulo”:”Ingeniería Comercial”,
+					"institución": "Universidad de Chile",
+					"año": "2013”,
+				},
+				{
+					"nivel”:”otro”,
+					"titulo”:”Diseño y Joyería“,
+					"institución": “Escuela de Joyería Pamela de la Fuente“,
+					"año": "2016”,
+				}
+			],
+			"trabajo": [{
+					"cargo”:”Customer Success Manager“,
+					"institución": “Rankmi”,
+					"Inicio": {
+						"año": "2018",
+						"mes": "04”,
+					},
+					"duración": {
+						"años": "2",
+						"meses”:”1”
+					}
+				},
+				{
+					"cargo”:”Joyera”,
+					"institución": “Natal Factoría”,
+					"Inicio": {
+						"año": "2016”,
+						"mes”:”11”,
+					},
+					"duración": {
+						"años”:”1”,
+						"meses”:”4”,
+					},
+				},
+				{
+					"cargo”:”Jefe de proyectos DO”,
+					"institución”:”Banco Falabella“,
+					"inicio": {
+						"año": "2015”,
+						"mes”:”04”
+					},
+					"duración": {
+						"años": "0",
+						"meses”:”11”
+					},
+				},
+				{
+					"cargo”:”Project manager“,
+					"institución”:”Banco Falabella“,
+					"Inicio": {
+						"año": "2014”,
+						"mes": "06”
+					},
+					"duración": {
+						"años”:”0”,
+						"meses”:”10”
+					},
+				},
+				{
+					"cargo”:”Memorista”,
+					"institución”:”IBM de Chile”,
+					"Inicio": {
+						"año": "2011”,
+						"mes”:”10”
+					},
+					"duración": {
+						"años”:”1”,
+						"meses”:”3”
+					},
+				},
+			],
+		},
 	]
 }
