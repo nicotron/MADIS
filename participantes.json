@@ -76,7 +76,7 @@
 		},
 		{
 			"nombre":"María José Ricaurte Arriagada",
-      		"fecha_de_nacimiento":"14091993",
+      		"fecha_de_nacimiento":14091993,
       		"estudios":[{
 					"nivel":"pregrado",
 					"titulo":"diseñador gráfico",
@@ -244,7 +244,7 @@
 	  	},
 		{
 			"nombre":"Esteban Legrand Guzmán",
-			"fecha_de_nacimiento":"26051977",
+			"fecha_de_nacimiento":26051977,
 			"estudios":[{
 					"nivel":"pregrado",
 					"titulo":"Diseñador industrial",
@@ -297,73 +297,73 @@
 					"nivel": "pregrado",
 					"titulo":"Ingeniería Comercial",
 					"institución": "Universidad de Chile",
-					"año": "2013"
+					"año": 2013
 				},
 				{
 					"nivel":"otro",
 					"titulo":"Diseño y Joyería",
 					"institución": "Escuela de Joyería Pamela de la Fuente",
-					"año": "2016"
+					"año": 2016
 				}
 			],
 			"trabajo": [{
 					"cargo":"Customer Success Manager",
 					"institución": "Rankmi",
 					"Inicio": {
-						"año": "2018",
-						"mes": "04"
+						"año": 2018,
+						"mes": 4
 					},
 					"duración": {
-						"años": "2",
-						"meses":"1"
+						"años": 2,
+						"meses":1
 					}
 				},
 				{
 					"cargo":"Joyera",
 					"institución": "Natal Factoría",
 					"Inicio": {
-						"año": "2016",
-						"mes":"11"
+						"año": 2016,
+						"mes":11
 					},
 					"duración": {
-						"años":"1",
-						"meses":"4"
+						"años":1,
+						"meses":4
 					}
 				},
 				{
 					"cargo":"Jefe de proyectos DO",
 					"institución":"Banco Falabella",
 					"inicio": {
-						"año": "2015",
-						"mes":"04"
+						"año": 2015,
+						"mes":4
 					},
 					"duración": {
-						"años": "0",
-						"meses":"11"
+						"años": 0,
+						"meses":11
 					}
 				},
 				{
 					"cargo":"Project manager",
 					"institución":"Banco Falabella",
 					"Inicio": {
-						"año": "2014",
-						"mes": "06"
+						"año": 2014,
+						"mes": 1
 					},
 					"duración": {
-						"años":"0",
-						"meses":"10"
+						"años":0,
+						"meses":10
 					}
 				},
 				{
 					"cargo":"Memorista",
 					"institución":"IBM de Chile",
 					"Inicio": {
-						"año": "2011",
-						"mes":"10"
+						"año": 2011,
+						"mes":10
 					},
 					"duración": {
-						"años":"1",
-						"meses":"3"
+						"años":1,
+						"meses":3
 					}
 				}
 			]
