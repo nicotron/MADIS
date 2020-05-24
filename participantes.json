@@ -297,13 +297,13 @@
 					"nivel": "pregrado",
 					"titulo":"Ingeniería Comercial",
 					"institución": "Universidad de Chile",
-					"año": "2013",
+					"año": "2013"
 				},
 				{
 					"nivel":"otro",
 					"titulo":"Diseño y Joyería",
 					"institución": "Escuela de Joyería Pamela de la Fuente",
-					"año": "2016",
+					"año": "2016"
 				}
 			],
 			"trabajo": [{
@@ -311,7 +311,7 @@
 					"institución": "Rankmi",
 					"Inicio": {
 						"año": "2018",
-						"mes": "04",
+						"mes": "04"
 					},
 					"duración": {
 						"años": "2",
@@ -323,11 +323,11 @@
 					"institución": "Natal Factoría",
 					"Inicio": {
 						"año": "2016",
-						"mes":"11",
+						"mes":"11"
 					},
 					"duración": {
 						"años":"1",
-						"meses":"4",
+						"meses":"4"
 					},
 				},
 				{
