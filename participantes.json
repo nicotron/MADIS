@@ -244,7 +244,7 @@
 	  	},
 		{
 			"nombre":"Esteban Legrand Guzmán",
-			"fecha_de_nacimiento":26051977,
+			"fecha_de_nacimiento":"26051977",
 			"estudios":[{
 					"nivel":"pregrado",
 					"titulo":"Diseñador industrial",
@@ -375,25 +375,25 @@
 			  		"nivel":"pregrado",
 			  		"titulo":"diseñador gráfico",
 			  		"institución":"universidad del desarrollo",
-			  		"año":"2014"
+			  		"año":2014
 				},
 				{
 			  		"nivel":"curso",
 			  		"titulo":"backend y front básico",
 			  		"institución":"Launchpad",
-			  		"año":"2017"
+			  		"año":2017
 				}
 			],
 			"trabajo": [{
 				  	"cargo":"director marketing farmacéutico",
 				  	"institución":"Pharol SpA",
 				  	"inicio":{
-						"año":"2019",
-						"mes":"08"
+						"año":2019,
+						"mes":8
 				  	},
 			  		"duración":{
 						"años":"actualidad",
-						"meses":"6"
+						"meses":6
 					}
 	  			}
 			]
