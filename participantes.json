@@ -382,8 +382,9 @@
 			  		"titulo":"backend y front básico",
 			  		"institución":"Launchpad",
 			  		"año":"2017"
-				},
-				{
+				}
+			],
+			"trabajo": [{
 				  	"cargo":"director marketing farmacéutico",
 				  	"institución":"Pharol SpA",
 				  	"inicio":{
