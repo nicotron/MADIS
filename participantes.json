@@ -369,34 +369,33 @@
 			]
 		},
 		{
-		  "nombre":"Pablo Montt Amenábar",
-		  "fecha_de_nacimiento":"28081989",
-		  "estudios":[
-			{
-			  "nivel":"pregrado",
-			  "titulo":"diseñador gráfico",
-			  "institución":"universidad del desarrollo",
-			  "año":"2014"
-			},
-			{
-			  "nivel":"curso",
-			  "titulo":"backend y front básico",
-			  "institución":"Launchpad",
-			  "año":"2017"
-			},
-			{
-			  "cargo":"director marketing farmacéutico",
-			  "institución":"Pharol SpA",
-			  "inicio":{
-				"año":"2019",
-				"mes":"08"
-			  },
-			  "duración":{
-				"años":"actualidad",
-				"meses":"6"
-		}
-	  }
-	]
-  }
+		  	"nombre":"Pablo Montt Amenábar",
+		  	"fecha_de_nacimiento":"28081989",
+		  	"estudios":[{
+			  		"nivel":"pregrado",
+			  		"titulo":"diseñador gráfico",
+			  		"institución":"universidad del desarrollo",
+			  		"año":"2014"
+				},
+				{
+			  		"nivel":"curso",
+			  		"titulo":"backend y front básico",
+			  		"institución":"Launchpad",
+			  		"año":"2017"
+				},
+				{
+				  	"cargo":"director marketing farmacéutico",
+				  	"institución":"Pharol SpA",
+				  	"inicio":{
+						"año":"2019",
+						"mes":"08"
+				  	},
+			  		"duración":{
+						"años":"actualidad",
+						"meses":"6"
+					}
+	  			}
+			]
+  		}
 	]
 }
