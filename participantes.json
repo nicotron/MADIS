@@ -403,37 +403,37 @@
 					"nivel": "pregrado",
 					"titulo": "ingeniero en diseño de productos",
 					"institución": "universidad técnica federico santa maría",
-					"año": "2014"
+					"año": 2014
 				},
 				{
 					"nivel": "postgrado",
 					"titulo": "magister en diseño e innovación sostenible",
 					"institución": "universidad del desarrollo",
-					"año": "2020"
+					"año": 2020
 				}
 			],
 			"trabajo": [{
 					"cargo": "profesor de taller de productos VII y seminario de trabajo en equipo y liderazgo",
 					"institución": "universidad técnica federico santa maría",
 					"inicio": {
-						"año": "2014",
-						"mes": "03"
+						"año": 2014,
+						"mes": 3
 					},
 					"duración": {
-						"años": "6",
-						"meses": "3"
+						"años": 6,
+						"meses": 3
 					}
 				},
 				{
 					"cargo": "consultor de diseño e innovación",
 					"institución": "independiente",
 					"inicio": {
-						"año": "2019",
-						"mes": "10"
+						"año": 2019,
+						"mes": 10
 					},
 					"duración": {
-						"años": "0",
-						"meses": "8"
+						"años": 0,
+						"meses": 8
 					}
 				}
 			]
