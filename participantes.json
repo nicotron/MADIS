@@ -706,6 +706,56 @@
 					"meses": "10"
 				}
 			}]
-		}
+		},
+		{
+     " nombre " : " Constanza del Pilar Suárez Sánchez " ,
+     " fecha_de_nacimiento " : " 07091980 " ,
+     " estudios " : [
+       {
+         " nivel " : " pregrado " ,
+         " título " : " diseñadora de ambientes y objetos " ,
+         " institución " : " universidad del desarrollo " ,
+         " año " : " 2009 "
+       },
+			 {
+				 " nivel " : " postgrado " ,
+				 " título " : " diplomado en diseño de paisaje " ,
+				 " institución " : " pontificia universidad católica de chile " ,
+				 " año " : " 2014 "
+			 },
+			 {
+				 " nivel " : " postgrado " ,
+				 " título " : " madis magister en diseño e innovación sostenible " ,
+				 " institución " : " universidad del desarrollo " ,
+				 " año " : " 2020 "
+			 },
+     ],
+     " trabajo " : [
+       {
+         " cargo " : " coordinadora estudiantil facultad de diseño " ,
+         " institución " : " universidad del desarrollo " ,
+         " inicio " : {
+           " año " : " 2016 " ,
+           " mes " : " 10 "
+         },
+         " duración " : {
+           " años " : " 3 " ,
+           " meses " : " 7 "
+         }
+       },
+       {
+         " cargo " : " docente " ,
+         " institución " : " universidad del desarrollo " ,
+         " inicio " : {
+           " año " : " 2009 " ,
+           " mes " : " 03 "
+         },
+         " duración " : {
+           " años " : " 11 " ,
+           " meses " : " 2 "
+         }
+       }
+     ]
+   }
 	]
 }
