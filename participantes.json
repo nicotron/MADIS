@@ -527,6 +527,85 @@
 					}
 				}
 			]
-		}
+		},
+		{
+  "descripción":"lista de participantes en el curso",
+  "participantes":[
+    {
+      "nombre":"Gabriela Corvalán Oyarce",
+      "fecha_de_nacimiento":"26011986",
+      "estudios":[
+        {
+          "nivel":"pregrado",
+          "titulo":"diseñador industrial",
+          "institución":"universidad tecnológica metropolitana",
+          "año":"2008"
+        },
+        {
+          "nivel":"postgrado",
+          "titulo":"magister en diseño e innovación sostenible",
+          "institución":"universidad del desarrollo",
+          "año":"2021"
+        },
+        {
+          "nivel":"pasantía",
+          "titulo":"Beca Emergencia 2000",
+          "institución":"Emergencia 2000 S.A",
+          "año":"2009"
+        }
+      ],
+      "trabajo":[
+        {
+          "cargo":"Jefa departamento de diseño",
+          "institución":"Ergotec muebles",
+          "inicio":{
+            "año":"2015",
+            "mes":"01"
+          },
+          "duración":{
+            "años":"5",
+            "meses":"4"
+          }
+        },
+        {
+          "cargo":"ingeniera deproducto",
+          "institución":"Sindelen",
+          "inicio":{
+            "año":"2010",
+            "mes":"09"
+          },
+          "duración":{
+            "años":"4",
+            "meses":"3"
+          }
+        },
+        {
+          "cargo":"Profesora Análisis morfológico",
+          "institución":"USACH",
+          "inicio":{
+            "año":"2018",
+            "mes":"08"
+          },
+          "duración":{
+            "años":"0",
+            "meses":"4"
+          }
+        },
+        {
+          "cargo":"Relatora curso Solidworks para profesores",
+          "institución":"USACH",
+          "inicio":{
+            "año":"2016",
+            "mes":"08"
+          },
+          "duración":{
+            "años":"0",
+            "meses":"2"
+          }
+        }
+      ]
+    }
+  ]
+}
 	]
 }
