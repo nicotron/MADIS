@@ -444,7 +444,7 @@
 			"estudios": [{
 					"nivel": "pregrado",
 					"titulo": "Diseñador Gráfico Profesional",
-					"institución": "INACAP"
+					"institución": "INACAP",
 					"año": "2005"
 				},
 				{
@@ -474,7 +474,7 @@
 						"mes": "03"
 					},
 					"duración": {
-						"años": "1"
+						"años": "1",
 						"meses": "2"
 					}
 				},
@@ -486,7 +486,7 @@
 						"meses": "12"
 					},
 					"duración": {
-						"años": "1"
+						"años": "1",
 						"meses": "3"
 					}
 				},
@@ -504,7 +504,7 @@
 				},
 				{
 					"cargo": "encargado de marketing y comunicaciones",
-					"institución": "Inacap vicerrectoría de innovación y postgrado"
+					"institución": "Inacap vicerrectoría de innovación y postgrado",
 					"inicio": {
 						"año": "2012",
 						"mes": "08"
@@ -516,7 +516,7 @@
 				},
 				{
 					"cargo": "diseñadro gráfico",
-					"institución": "Inacap sede apoquindo"
+					"institución": "Inacap sede apoquindo",
 					"inicio": {
 						"año": "2009",
 						"mes": "9"
