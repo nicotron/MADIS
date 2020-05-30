@@ -754,6 +754,77 @@
 					}
 				}
 			]
-		}
+		},
+		{
+      "nombre":"Natalia Solar",
+      "fecha_de_nacimiento":"011110981",
+      "estudios":[
+        {
+          "nivel":"pregrado",
+          "titulo":"ingeniería comercial",
+          "institución":"pontificia universidad católica",
+          "año":"2006"
+        },
+        {
+          "nivel":"postgrado",
+          "titulo":"especialización en desarrollo humano",
+          "institución":"FLACSO Buenos Aires",
+          "año":"2014"
+        },
+        {
+          "nivel":"posgrado",
+          "titulo":"innovación en desarrollo sostenible, cursando",
+          "institución":"universidad del desarrollo",
+          "año":"2020"
+        }
+      ],
+      "trabajo":[
+        {
+          "cargo":"consultorn independiente innovación y sostenibilidad",
+          "institución":"independiente",
+          "inicio":{
+            "año":"2019",
+            "mes":"11"
+          },
+          "duración":{
+            "años":"0",
+            "meses":"7"
+          }
+        },
+        {
+          "cargo":"consultor senior innovación",
+          "institución":"transforme consultores",
+          "inicio":{
+            "año":"2015",
+            "mes":"5"
+          },
+          "duración":{
+            "años":"4",
+            "meses":"5"
+          }
+        },
+        {
+          "cargo":"asesoróa proyectos",
+          "institución":"dom municipalidad isla de pascua",
+          "inicio":{
+            "año":"2013",
+            "mes":"03"
+          },
+          "duración":{
+            "años":"1",
+            "meses":"7"
+          }
+        },
+        {
+          "cargo":"voluntaria en malamulele, sudáfrica",
+          "institución":"africa dream",
+          "inicio":{
+            "año":"2011",
+            "mes":"04"
+          },
+          "duración":{
+            "años":"1",
+            "meses":"0"
+          }
 	]
 }
