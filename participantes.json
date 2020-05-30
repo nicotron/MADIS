@@ -1,32 +1,32 @@
 {
-	"descripción":"lista de participantes en el curso",
+	"descripción": "lista de participantes en el curso",
 	"participantes": [{
-			"nombre":"Nicolás Troncoso López",
+			"nombre": "Nicolás Troncoso López",
 			"fecha_de_nacimiento": 28071982,
 			"estudios": [{
-					"nivel":"pregrado",
-					"titulo":"diseñador industrial",
-					"institución":"universidad andres bello",
+					"nivel": "pregrado",
+					"titulo": "diseñador industrial",
+					"institución": "universidad andres bello",
 					"año": 2007
 				},
 				{
-					"nivel":"postgrado",
-					"titulo":"magister en tecnologías del diseño",
-					"institución":"universidad andres bello",
+					"nivel": "postgrado",
+					"titulo": "magister en tecnologías del diseño",
+					"institución": "universidad andres bello",
 					"año": 2008
 
 				},
 				{
-					"nivel":"diplomado",
-					"titulo":"ciencia de datos",
-					"institución":"universidad de chile",
+					"nivel": "diplomado",
+					"titulo": "ciencia de datos",
+					"institución": "universidad de chile",
 					"año": 2018
 
 				}
 			],
 			"trabajo": [{
-					"cargo":"profesor representación de la información y visualización de datos",
-					"institución":"universidad del desarrollo",
+					"cargo": "profesor representación de la información y visualización de datos",
+					"institución": "universidad del desarrollo",
 					"inicio": {
 						"año": 2020,
 						"mes": 5
@@ -37,8 +37,8 @@
 					}
 				},
 				{
-					"cargo":"residente fablab",
-					"institución":"universidad de chile",
+					"cargo": "residente fablab",
+					"institución": "universidad de chile",
 					"inicio": {
 						"año": 2019,
 						"mes": 4
@@ -49,8 +49,8 @@
 					}
 				},
 				{
-					"cargo":"investigador interfacultades udd",
-					"institución":"universidad del desarrollo",
+					"cargo": "investigador interfacultades udd",
+					"institución": "universidad del desarrollo",
 					"inicio": {
 						"año": 2019,
 						"mes": 1
@@ -61,8 +61,8 @@
 					}
 				},
 				{
-					"cargo":"profesor udd - programación creativa - representación de la información - taller de interacción(*)",
-					"institución":"universidad del desarrollo",
+					"cargo": "profesor udd - programación creativa - representación de la información - taller de interacción(*)",
+					"institución": "universidad del desarrollo",
 					"inicio": {
 						"año": 2015,
 						"mes": 7
@@ -75,36 +75,36 @@
 			]
 		},
 		{
-			"nombre":"María José Ricaurte Arriagada",
+			"nombre": "María José Ricaurte Arriagada",
 			"fecha_de_nacimiento": 14091993,
 			"estudios": [{
-					"nivel":"pregrado",
-					"titulo":"diseñador gráfico",
-					"institución":"universidad del desarrollo",
+					"nivel": "pregrado",
+					"titulo": "diseñador gráfico",
+					"institución": "universidad del desarrollo",
 					"año": 2016
 				},
 				{
-					"nivel":"pasantía",
-					"titulo":"visual merchandising",
-					"institución":"politécnico de milán",
+					"nivel": "pasantía",
+					"titulo": "visual merchandising",
+					"institución": "politécnico de milán",
 					"año": 2016
 				},
 				{
-					"nivel":"postgrado",
-					"titulo":"magister en diseño e innovación sostenible",
-					"institución":"universidad del desarrollo",
+					"nivel": "postgrado",
+					"titulo": "magister en diseño e innovación sostenible",
+					"institución": "universidad del desarrollo",
 					"año": 2021
 				},
 				{
-					"nivel":"diplomado",
-					"titulo":"diseño de servicios",
-					"institución":"universidad del desarrollo",
+					"nivel": "diplomado",
+					"titulo": "diseño de servicios",
+					"institución": "universidad del desarrollo",
 					"año": 2018
 				}
 			],
 			"trabajo": [{
-					"cargo":"servicio al cliente",
-					"institución":"mplot impresores",
+					"cargo": "servicio al cliente",
+					"institución": "mplot impresores",
 					"inicio": {
 						"año": 2013,
 						"mes": 0
@@ -115,8 +115,8 @@
 					}
 				},
 				{
-					"cargo":"diseñador gráfico",
-					"institución":"agencia digital bigbuda",
+					"cargo": "diseñador gráfico",
+					"institución": "agencia digital bigbuda",
 					"inicio": {
 						"año": 2015,
 						"mes": 11
@@ -127,8 +127,8 @@
 					}
 				},
 				{
-					"cargo":"asistente comercial",
-					"institución":"a impresores s.a.",
+					"cargo": "asistente comercial",
+					"institución": "a impresores s.a.",
 					"inicio": {
 						"año": 2017,
 						"mes": 3
@@ -139,8 +139,8 @@
 					}
 				},
 				{
-					"cargo":"ejecutiva comercial",
-					"institución":"a impresores s.a.",
+					"cargo": "ejecutiva comercial",
+					"institución": "a impresores s.a.",
 					"inicio": {
 						"año": 2017,
 						"mes": 10
@@ -151,8 +151,8 @@
 					}
 				},
 				{
-					"cargo":"subgerente digital",
-					"institución":"a impresores s.a.",
+					"cargo": "subgerente digital",
+					"institución": "a impresores s.a.",
 					"inicio": {
 						"año": 2019,
 						"mes": 9
@@ -165,24 +165,24 @@
 			]
 		},
 		{
-			"nombre":"Pía Garrido Bernales",
-			"fecha_de_nacimiento":"08091981",
+			"nombre": "Pía Garrido Bernales",
+			"fecha_de_nacimiento": "08091981",
 			"estudios": [{
-					"nivel":"pregrado",
-					"titulo":"arquitecta",
-					"institución":"Universidad de Santiago de Chile",
+					"nivel": "pregrado",
+					"titulo": "arquitecta",
+					"institución": "Universidad de Santiago de Chile",
 					"año": 2016
 				},
 				{
-					"nivel":"diplomado",
-					"titulo":"Postitulo Sistemas de Información Geográfico",
-					"institución":"Universidad de Chile",
+					"nivel": "diplomado",
+					"titulo": "Postitulo Sistemas de Información Geográfico",
+					"institución": "Universidad de Chile",
 					"año": 2016
 				}
 			],
 			"trabajo": [{
-					"cargo":"Profesional Área de Proyectos Depto. Infraestructura y Equipamiento Educacional",
-					"institución":"Dirección de Educación Pública",
+					"cargo": "Profesional Área de Proyectos Depto. Infraestructura y Equipamiento Educacional",
+					"institución": "Dirección de Educación Pública",
 					"Inicio": {
 						"año": 2018,
 						"mes": 2
@@ -193,8 +193,8 @@
 					}
 				},
 				{
-					"cargo":"Profesional Área de Proyectos Depto. Infraestructura Escolar",
-					"institución":"Ministerio de Educación",
+					"cargo": "Profesional Área de Proyectos Depto. Infraestructura Escolar",
+					"institución": "Ministerio de Educación",
 					"Inicio": {
 						"año": 2018,
 						"mes": 2
@@ -205,8 +205,8 @@
 					}
 				},
 				{
-					"cargo":"Cofundadora",
-					"institución":"CONTEXTO Servicios",
+					"cargo": "Cofundadora",
+					"institución": "CONTEXTO Servicios",
 					"inicio": {
 						"año": 2011,
 						"mes": 11
@@ -217,8 +217,8 @@
 					}
 				},
 				{
-					"cargo":"Coordinadora Regional de Infraestructura Escolar",
-					"institución":"Secretaría Regional Ministerial de Educación",
+					"cargo": "Coordinadora Regional de Infraestructura Escolar",
+					"institución": "Secretaría Regional Ministerial de Educación",
 					"inicio": {
 						"año": 2009,
 						"mes": 1
@@ -229,8 +229,8 @@
 					}
 				},
 				{
-					"cargo":"Encargada Secretaría Comunal de Planificación",
-					"institución":"Municipalidad de Taltal",
+					"cargo": "Encargada Secretaría Comunal de Planificación",
+					"institución": "Municipalidad de Taltal",
 					"inicio": {
 						"año": 2006,
 						"mes": 3
@@ -243,17 +243,17 @@
 			]
 		},
 		{
-			"nombre":"Esteban Legrand Guzmán",
-			"fecha_de_nacimiento":"26051977",
+			"nombre": "Esteban Legrand Guzmán",
+			"fecha_de_nacimiento": "26051977",
 			"estudios": [{
-				"nivel":"pregrado",
-				"titulo":"Diseñador industrial",
-				"institución":"DUOC UC",
+				"nivel": "pregrado",
+				"titulo": "Diseñador industrial",
+				"institución": "DUOC UC",
 				"año": 2000
 			}],
 			"trabajo": [{
-					"cargo":"Propietario",
-					"institución":"LK Diseño Ltda",
+					"cargo": "Propietario",
+					"institución": "LK Diseño Ltda",
 					"inicio": {
 						"año": 2006,
 						"mes": 7
@@ -264,8 +264,8 @@
 					}
 				},
 				{
-					"cargo":"Gerente General y Representante Legal",
-					"institución":"Tools Sociedad Anonima",
+					"cargo": "Gerente General y Representante Legal",
+					"institución": "Tools Sociedad Anonima",
 					"inicio": {
 						"año": 2003,
 						"mes": 7
@@ -276,8 +276,8 @@
 					}
 				},
 				{
-					"cargo":"Diseñador",
-					"institución":"Estudio 3161 Sociedad Anonima",
+					"cargo": "Diseñador",
+					"institución": "Estudio 3161 Sociedad Anonima",
 					"inicio": {
 						"año": 2001,
 						"mes": 1
@@ -290,24 +290,24 @@
 			]
 		},
 		{
-			"nombre":"Natalia Tapia Luengo",
-			"fecha_de_nacimiento":"07111990",
+			"nombre": "Natalia Tapia Luengo",
+			"fecha_de_nacimiento": "07111990",
 			"estudios": [{
-					"nivel":"pregrado",
-					"titulo":"Ingeniería Comercial",
-					"institución":"Universidad de Chile",
+					"nivel": "pregrado",
+					"titulo": "Ingeniería Comercial",
+					"institución": "Universidad de Chile",
 					"año": 2013
 				},
 				{
-					"nivel":"otro",
-					"titulo":"Diseño y Joyería",
-					"institución":"Escuela de Joyería Pamela de la Fuente",
+					"nivel": "otro",
+					"titulo": "Diseño y Joyería",
+					"institución": "Escuela de Joyería Pamela de la Fuente",
 					"año": 2016
 				}
 			],
 			"trabajo": [{
-					"cargo":"Customer Success Manager",
-					"institución":"Rankmi",
+					"cargo": "Customer Success Manager",
+					"institución": "Rankmi",
 					"Inicio": {
 						"año": 2018,
 						"mes": 4
@@ -318,8 +318,8 @@
 					}
 				},
 				{
-					"cargo":"Joyera",
-					"institución":"Natal Factoría",
+					"cargo": "Joyera",
+					"institución": "Natal Factoría",
 					"Inicio": {
 						"año": 2016,
 						"mes": 11
@@ -330,8 +330,8 @@
 					}
 				},
 				{
-					"cargo":"Jefe de proyectos DO",
-					"institución":"Banco Falabella",
+					"cargo": "Jefe de proyectos DO",
+					"institución": "Banco Falabella",
 					"inicio": {
 						"año": 2015,
 						"mes": 4
@@ -342,8 +342,8 @@
 					}
 				},
 				{
-					"cargo":"Project manager",
-					"institución":"Banco Falabella",
+					"cargo": "Project manager",
+					"institución": "Banco Falabella",
 					"Inicio": {
 						"año": 2014,
 						"mes": 1
@@ -354,8 +354,8 @@
 					}
 				},
 				{
-					"cargo":"Memorista",
-					"institución":"IBM de Chile",
+					"cargo": "Memorista",
+					"institución": "IBM de Chile",
 					"Inicio": {
 						"año": 2011,
 						"mes": 10
@@ -368,53 +368,53 @@
 			]
 		},
 		{
-			"nombre":"Pablo Montt Amenábar",
-			"fecha_de_nacimiento":"28081989",
+			"nombre": "Pablo Montt Amenábar",
+			"fecha_de_nacimiento": "28081989",
 			"estudios": [{
-					"nivel":"pregrado",
-					"titulo":"diseñador gráfico",
-					"institución":"universidad del desarrollo",
+					"nivel": "pregrado",
+					"titulo": "diseñador gráfico",
+					"institución": "universidad del desarrollo",
 					"año": 2014
 				},
 				{
-					"nivel":"curso",
-					"titulo":"backend y front básico",
-					"institución":"Launchpad",
+					"nivel": "curso",
+					"titulo": "backend y front básico",
+					"institución": "Launchpad",
 					"año": 2017
 				}
 			],
 			"trabajo": [{
-				"cargo":"director marketing farmacéutico",
-				"institución":"Pharol SpA",
+				"cargo": "director marketing farmacéutico",
+				"institución": "Pharol SpA",
 				"inicio": {
 					"año": 2019,
 					"mes": 8
 				},
 				"duración": {
-					"años":"actualidad",
+					"años": "actualidad",
 					"meses": 6
 				}
 			}]
 		},
 		{
-			"nombre":"Vicente Arenas Pinto",
-			"fecha_de_nacimiento":"26031987",
+			"nombre": "Vicente Arenas Pinto",
+			"fecha_de_nacimiento": "26031987",
 			"estudios": [{
-					"nivel":"pregrado",
-					"titulo":"ingeniero en diseño de productos",
-					"institución":"universidad técnica federico santa maría",
+					"nivel": "pregrado",
+					"titulo": "ingeniero en diseño de productos",
+					"institución": "universidad técnica federico santa maría",
 					"año": 2014
 				},
 				{
-					"nivel":"postgrado",
-					"titulo":"magister en diseño e innovación sostenible",
-					"institución":"universidad del desarrollo",
+					"nivel": "postgrado",
+					"titulo": "magister en diseño e innovación sostenible",
+					"institución": "universidad del desarrollo",
 					"año": 2020
 				}
 			],
 			"trabajo": [{
-					"cargo":"profesor de taller de productos VII y seminario de trabajo en equipo y liderazgo",
-					"institución":"universidad técnica federico santa maría",
+					"cargo": "profesor de taller de productos VII y seminario de trabajo en equipo y liderazgo",
+					"institución": "universidad técnica federico santa maría",
 					"inicio": {
 						"año": 2014,
 						"mes": 3
@@ -425,8 +425,8 @@
 					}
 				},
 				{
-					"cargo":"consultor de diseño e innovación",
-					"institución":"independiente",
+					"cargo": "consultor de diseño e innovación",
+					"institución": "independiente",
 					"inicio": {
 						"año": 2019,
 						"mes": 10
@@ -439,392 +439,393 @@
 			]
 		},
 		{
-			"nombre":"Claudio Moreira González",
-			"fecha_de_nacimiento":"26091979",
+			"nombre": "Claudio Moreira González",
+			"fecha_de_nacimiento": "26091979",
 			"estudios": [{
-					"nivel":"pregrado",
-					"titulo":"Diseñador Gráfico Profesional",
-					"institución":"INACAP",
-					"año":"2005"
+					"nivel": "pregrado",
+					"titulo": "Diseñador Gráfico Profesional",
+					"institución": "INACAP",
+					"año": "2005"
 				},
 				{
-					"nivel":"postgrado",
-					"titulo":"magister en diseño e innovación sostenible",
-					"institución":"Universidad del desarrollo",
-					"año":"2020"
+					"nivel": "postgrado",
+					"titulo": "magister en diseño e innovación sostenible",
+					"institución": "Universidad del desarrollo",
+					"año": "2020"
 				}
 			],
 			"trabajo": [{
-					"cargo":"coordinador de carrera área informática y telecomunicaciones",
-					"institución":"Inacap sede puente alto",
+					"cargo": "coordinador de carrera área informática y telecomunicaciones",
+					"institución": "Inacap sede puente alto",
 					"inicio": {
-						"año":"2019",
-						"mes":"03"
+						"año": "2019",
+						"mes": "03"
 					},
 					"duración": {
-						"años":"1",
-						"meses":"2"
+						"años": "1",
+						"meses": "2"
 					}
 				},
 				{
-					"cargo":"coordinador de carrera área Electricidad y electrónica",
-					"institución":"Inacap",
+					"cargo": "coordinador de carrera área Electricidad y electrónica",
+					"institución": "Inacap",
 					"inicio": {
-						"año":"2018",
-						"mes":"03"
+						"año": "2018",
+						"mes": "03"
 					},
 					"duración": {
-						"años":"1",
-						"meses":"2"
+						"años": "1",
+						"meses": "2"
 					}
 				},
 				{
-					"cargo":"coordinador de sede jornada vespertina",
-					"Insitución":"Inacap",
+					"cargo": "coordinador de sede jornada vespertina",
+					"Insitución": "Inacap",
 					"inicio": {
-						"año":"2016",
-						"meses":"12"
+						"año": "2016",
+						"meses": "12"
 					},
 					"duración": {
-						"años":"1",
-						"meses":"3"
+						"años": "1",
+						"meses": "3"
 					}
 				},
 				{
-					"cargo":"director de asuntos estudiantiles y comunicaciones",
-					"institución":"Inacap sede puente alto",
+					"cargo": "director de asuntos estudiantiles y comunicaciones",
+					"institución": "Inacap sede puente alto",
 					"inicio": {
-						"año":"2013",
-						"mes":"08"
+						"año": "2013",
+						"mes": "08"
 					},
 					"duración": {
-						"años":"3",
-						"meses":"2"
+						"años": "3",
+						"meses": "2"
 					}
 				},
 				{
-					"cargo":"encargado de marketing y comunicaciones",
-					"institución":"Inacap vicerrectoría de innovación y postgrado",
+					"cargo": "encargado de marketing y comunicaciones",
+					"institución": "Inacap vicerrectoría de innovación y postgrado",
 					"inicio": {
-						"año":"2012",
-						"mes":"08"
+						"año": "2012",
+						"mes": "08"
 					},
 					"duración": {
-						"años":"1",
-						"meses":"8"
+						"años": "1",
+						"meses": "8"
 					}
 				},
 				{
-					"cargo":"diseñadro gráfico",
-					"institución":"Inacap sede apoquindo",
+					"cargo": "diseñadro gráfico",
+					"institución": "Inacap sede apoquindo",
 					"inicio": {
-						"año":"2009",
-						"mes":"9"
+						"año": "2009",
+						"mes": "9"
 					},
 					"duración": {
-						"años":"3",
-						"meses":"1"
+						"años": "3",
+						"meses": "1"
 					}
 				}
 			]
 		},
 		{
-			"nombre":"Gabriela Corvalán Oyarce",
-			"fecha_de_nacimiento":"26011986",
+			"nombre": "Gabriela Corvalán Oyarce",
+			"fecha_de_nacimiento": "26011986",
 			"estudios": [{
-					"nivel":"pregrado",
-					"titulo":"diseñador industrial",
-					"institución":"universidad tecnológica metropolitana",
-					"año":"2008"
+					"nivel": "pregrado",
+					"titulo": "diseñador industrial",
+					"institución": "universidad tecnológica metropolitana",
+					"año": "2008"
 				},
 				{
-					"nivel":"postgrado",
-					"titulo":"magister en diseño e innovación sostenible",
-					"institución":"universidad del desarrollo",
-					"año":"2021"
+					"nivel": "postgrado",
+					"titulo": "magister en diseño e innovación sostenible",
+					"institución": "universidad del desarrollo",
+					"año": "2021"
 				},
 				{
-					"nivel":"pasantía",
-					"titulo":"Beca Emergencia 2000",
-					"institución":"Emergencia 2000 S.A",
-					"año":"2009"
+					"nivel": "pasantía",
+					"titulo": "Beca Emergencia 2000",
+					"institución": "Emergencia 2000 S.A",
+					"año": "2009"
 				}
 			],
 			"trabajo": [{
-					"cargo":"Jefa departamento de diseño",
-					"institución":"Ergotec muebles",
+					"cargo": "Jefa departamento de diseño",
+					"institución": "Ergotec muebles",
 					"inicio": {
-						"año":"2015",
-						"mes":"01"
+						"año": "2015",
+						"mes": "01"
 					},
 					"duración": {
-						"años":"5",
-						"meses":"4"
+						"años": "5",
+						"meses": "4"
 					}
 				},
 				{
-					"cargo":"ingeniera deproducto",
-					"institución":"Sindelen",
+					"cargo": "ingeniera deproducto",
+					"institución": "Sindelen",
 					"inicio": {
-						"año":"2010",
-						"mes":"09"
+						"año": "2010",
+						"mes": "09"
 					},
 					"duración": {
-						"años":"4",
-						"meses":"3"
+						"años": "4",
+						"meses": "3"
 					}
 				},
 				{
-					"cargo":"Profesora Análisis morfológico",
-					"institución":"USACH",
+					"cargo": "Profesora Análisis morfológico",
+					"institución": "USACH",
 					"inicio": {
-						"año":"2018",
-						"mes":"08"
+						"año": "2018",
+						"mes": "08"
 					},
 					"duración": {
-						"años":"0",
-						"meses":"4"
+						"años": "0",
+						"meses": "4"
 					}
 				},
 				{
-					"cargo":"Relatora curso Solidworks para profesores",
-					"institución":"USACH",
+					"cargo": "Relatora curso Solidworks para profesores",
+					"institución": "USACH",
 					"inicio": {
-						"año":"2016",
-						"mes":"08"
+						"año": "2016",
+						"mes": "08"
 					},
 					"duración": {
-						"años":"0",
-						"meses":"2"
+						"años": "0",
+						"meses": "2"
 					}
 				}
 			]
 		},
 		{
-			"nombre":"Javiera Vidal Parra",
-			"fecha_de_nacimiento":"14091994",
+			"nombre": "Javiera Vidal Parra",
+			"fecha_de_nacimiento": "14091994",
 			"estudios": [{
-					"nivel":"pregrado",
-					"titulo":"diseñadora de ambientes y objetos",
-					"institución":"universidad del desarrollo",
-					"año":"2018"
+					"nivel": "pregrado",
+					"titulo": "diseñadora de ambientes y objetos",
+					"institución": "universidad del desarrollo",
+					"año": "2018"
 				},
 				{
-					"nivel":"pasantia",
-					"titulo":"visual merchandising retail and communication design",
-					"institución":"politecnico de milan",
-					"año":"2016"
+					"nivel": "pasantia",
+					"titulo": "visual merchandising retail and communication design",
+					"institución": "politecnico de milan",
+					"año": "2016"
 				},
 				{
-					"nivel":"postgrado",
-					"titulo":"magister diseño e innovación sostenible",
-					"institución":"universidad del desarrollo",
-					"año":"2021"
+					"nivel": "postgrado",
+					"titulo": "magister diseño e innovación sostenible",
+					"institución": "universidad del desarrollo",
+					"año": "2021"
 				}
 			],
 			"trabajo": [{
-					"cargo":"Diseñadora de ambientes y objetos",
-					"institución":"Christian Erdmann Studio Design",
+					"cargo": "Diseñadora de ambientes y objetos",
+					"institución": "Christian Erdmann Studio Design",
 					"inicio": {
-						"año":"2019",
-						"mes":"10"
+						"año": "2019",
+						"mes": "10"
 					},
 					"duración": {
-						"años":"0",
-						"meses":"8"
+						"años": "0",
+						"meses": "8"
 					}
 				},
 				{
-					"cargo":"Diseñadora de ambientes y objetos",
-					"institución":"Nave de Diseño",
+					"cargo": "Diseñadora de ambientes y objetos",
+					"institución": "Nave de Diseño",
 					"inicio": {
-						"año":"2018",
-						"mes":"09"
+						"año": "2018",
+						"mes": "09"
 					},
 					"duración": {
-						"años":"1",
-						"meses":"0"
+						"años": "1",
+						"meses": "0"
 					}
 				},
 				{
-					"cargo":"Farm Manager",
-					"institución":"Tresdp",
+					"cargo": "Farm Manager",
+					"institución": "Tresdp",
 					"inicio": {
-						"año":"2018",
-						"mes":"06"
+						"año": "2018",
+						"mes": "06"
 					},
 					"duración": {
-						"años":"0",
-						"meses":"3"
+						"años": "0",
+						"meses": "3"
 					}
 				},
 				{
-					"cargo":"CEO & Fundadora",
-					"institución":"Bewood Chile",
+					"cargo": "CEO & Fundadora",
+					"institución": "Bewood Chile",
 					"inicio": {
-						"año":"2017",
-						"mes":"01"
+						"año": "2017",
+						"mes": "01"
 					},
 					"duración": {
-						"años":"2",
-						"meses":"0"
+						"años": "2",
+						"meses": "0"
 					}
 				}
 			]
 		},
 		{
-			"nombre":"Eloina Pose Lioi",
-			"fecha_de_nacimiento":"26091993",
+			"nombre": "Eloina Pose Lioi",
+			"fecha_de_nacimiento": "26091993",
 			"estudios": [{
-					"nivel":"pregrado",
-					"titulo":"Administradora de servicios y empresas",
-					"institución":"Universidad Los Andes",
-					"año":"2016"
+					"nivel": "pregrado",
+					"titulo": "Administradora de servicios y empresas",
+					"institución": "Universidad Los Andes",
+					"año": "2016"
 				},
 				{
-					"nivel":"postgrado",
-					"titulo":"magister en diseño e innovación sostenible",
-					"institución":"universidad del desarrollo",
-					"año":"2021"
+					"nivel": "postgrado",
+					"titulo": "magister en diseño e innovación sostenible",
+					"institución": "universidad del desarrollo",
+					"año": "2021"
 				},
 				{
-					"nivel":"Minor",
-					"titulo":"Minor en sociología",
-					"institución":"universidad Los Andes",
-					"año":"2014"
+					"nivel": "Minor",
+					"titulo": "Minor en sociología",
+					"institución": "universidad Los Andes",
+					"año": "2014"
 				}
 			],
 			"trabajo": [{
-				"cargo":"Jefa de operaciones",
-				"institución":"Papermark",
+				"cargo": "Jefa de operaciones",
+				"institución": "Papermark",
 				"inicio": {
-					"año":"2016",
-					"mes":"07"
+					"año": "2016",
+					"mes": "07"
 				},
 				"duración": {
-					"años":"3",
-					"meses":"10"
+					"años": "3",
+					"meses": "10"
 				}
 			}]
 		},
 		{
-			"nombre":"Constanza del Pilar Suárez Sánchez",
-			"fecha_de_nacimiento":"07091980",
+			"nombre": "Constanza del Pilar Suárez Sánchez",
+			"fecha_de_nacimiento": "07091980",
 			"estudios": [{
-					"nivel":"pregrado",
-					"título":"diseñadora de ambientes y objetos",
-					"institución":"universidad del desarrollo",
-					"año":"2009"
+					"nivel": "pregrado",
+					"título": "diseñadora de ambientes y objetos",
+					"institución": "universidad del desarrollo",
+					"año": "2009"
 				},
 				{
-					"nivel":"postgrado",
-					"título":"diplomado en diseño de paisaje",
-					"institución":"pontificia universidad católica de chile",
-					"año":"2014"
+					"nivel": "postgrado",
+					"título": "diplomado en diseño de paisaje",
+					"institución": "pontificia universidad católica de chile",
+					"año": "2014"
 				},
 				{
-					"nivel":"postgrado",
-					"título":"madis magister en diseño e innovación sostenible",
-					"institución":"universidad del desarrollo",
-					"año":"2020"
+					"nivel": "postgrado",
+					"título": "madis magister en diseño e innovación sostenible",
+					"institución": "universidad del desarrollo",
+					"año": "2020"
 				}
 			],
 			"trabajo": [{
-					"cargo":"coordinadora estudiantil facultad de diseño",
-					"institución":"universidad del desarrollo",
+					"cargo": "coordinadora estudiantil facultad de diseño",
+					"institución": "universidad del desarrollo",
 					"inicio": {
-						"año":"2016",
-						"mes":"10"
+						"año": "2016",
+						"mes": "10"
 					},
 					"duración": {
-						"años":"3",
-						"meses":"7"
+						"años": "3",
+						"meses": "7"
 					}
 				},
 				{
-					"cargo":"docente",
-					"institución":"universidad del desarrollo",
+					"cargo": "docente",
+					"institución": "universidad del desarrollo",
 					"inicio": {
-						"año":"2009",
-						"mes":"03"
+						"año": "2009",
+						"mes": "03"
 					},
 					"duración": {
-						"años":"11",
-						"meses":"2"
+						"años": "11",
+						"meses": "2"
 					}
 				}
 			]
 		},
 		{
-      "nombre":"Natalia Solar",
-      "fecha_de_nacimiento":"011110981",
-      "estudios":[
-        {
-          "nivel":"pregrado",
-          "titulo":"ingeniería comercial",
-          "institución":"pontificia universidad católica",
-          "año":"2006"
-        },
-        {
-          "nivel":"postgrado",
-          "titulo":"especialización en desarrollo humano",
-          "institución":"FLACSO Buenos Aires",
-          "año":"2014"
-        },
-        {
-          "nivel":"posgrado",
-          "titulo":"innovación en desarrollo sostenible, cursando",
-          "institución":"universidad del desarrollo",
-          "año":"2020"
-        }
-      ],
-      "trabajo":[
-        {
-          "cargo":"consultorn independiente innovación y sostenibilidad",
-          "institución":"independiente",
-          "inicio":{
-            "año":"2019",
-            "mes":"11"
-          },
-          "duración":{
-            "años":"0",
-            "meses":"7"
-          }
-        },
-        {
-          "cargo":"consultor senior innovación",
-          "institución":"transforme consultores",
-          "inicio":{
-            "año":"2015",
-            "mes":"5"
-          },
-          "duración":{
-            "años":"4",
-            "meses":"5"
-          }
-        },
-        {
-          "cargo":"asesoróa proyectos",
-          "institución":"dom municipalidad isla de pascua",
-          "inicio":{
-            "año":"2013",
-            "mes":"03"
-          },
-          "duración":{
-            "años":"1",
-            "meses":"7"
-          }
-        },
-        {
-          "cargo":"voluntaria en malamulele, sudáfrica",
-          "institución":"africa dream",
-          "inicio":{
-            "año":"2011",
-            "mes":"04"
-          },
-          "duración":{
-            "años":"1",
-            "meses":"0"
-          }
+			"nombre": "Natalia Solar",
+			"fecha_de_nacimiento": "011110981",
+			"estudios": [{
+					"nivel": "pregrado",
+					"titulo": "ingeniería comercial",
+					"institución": "pontificia universidad católica",
+					"año": "2006"
+				},
+				{
+					"nivel": "postgrado",
+					"titulo": "especialización en desarrollo humano",
+					"institución": "FLACSO Buenos Aires",
+					"año": "2014"
+				},
+				{
+					"nivel": "posgrado",
+					"titulo": "innovación en desarrollo sostenible, cursando",
+					"institución": "universidad del desarrollo",
+					"año": "2020"
+				}
+			],
+			"trabajo": [{
+					"cargo": "consultorn independiente innovación y sostenibilidad",
+					"institución": "independiente",
+					"inicio": {
+						"año": "2019",
+						"mes": "11"
+					},
+					"duración": {
+						"años": "0",
+						"meses": "7"
+					}
+				},
+				{
+					"cargo": "consultor senior innovación",
+					"institución": "transforme consultores",
+					"inicio": {
+						"año": "2015",
+						"mes": "5"
+					},
+					"duración": {
+						"años": "4",
+						"meses": "5"
+					}
+				},
+				{
+					"cargo": "asesoróa proyectos",
+					"institución": "dom municipalidad isla de pascua",
+					"inicio": {
+						"año": "2013",
+						"mes": "03"
+					},
+					"duración": {
+						"años": "1",
+						"meses": "7"
+					}
+				},
+				{
+					"cargo": "voluntaria en malamulele, sudáfrica",
+					"institución": "africa dream",
+					"inicio": {
+						"año": "2011",
+						"mes": "04"
+					},
+					"duración": {
+						"años": "1",
+						"meses": "0"
+					}
+				}
+			]
+		}
 	]
 }
