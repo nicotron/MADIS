@@ -601,79 +601,76 @@
 			]
 		},
 		{
-			"descripción": "lista de participantes en el curso",
-			"participantes": [{
-				"nombre": "Javiera Vidal Parra",
-				"fecha_de_nacimiento": "14091994",
-				"estudios": [{
-						"nivel": "pregrado",
-						"titulo": "diseñadora de ambientes y objetos",
-						"institución": "universidad del desarrollo",
-						"año": "2018"
+			"nombre": "Javiera Vidal Parra",
+			"fecha_de_nacimiento": "14091994",
+			"estudios": [{
+					"nivel": "pregrado",
+					"titulo": "diseñadora de ambientes y objetos",
+					"institución": "universidad del desarrollo",
+					"año": "2018"
+				},
+				{
+					"nivel": "pasantia",
+					"titulo": "visual merchandising retail and communication design",
+					"institución": "politecnico de milan",
+					"año": "2016"
+				},
+				{
+					"nivel": "postgrado",
+					"titulo": "magister diseño e innovación sostenible",
+					"institución": "universidad del desarrollo",
+					"año": "2021"
+				}
+			],
+			"trabajo": [{
+					"cargo": "Diseñadora de ambientes y objetos",
+					"institución": "Christian Erdmann Studio Design",
+					"inicio": {
+						"año": "2019",
+						"mes": "10"
 					},
-					{
-						"nivel": "pasantia",
-						"titulo": "visual merchandising retail and communication design",
-						"institución": "politecnico de milan",
-						"año": "2016"
-					},
-					{
-						"nivel": "postgrado",
-						"titulo": "magister diseño e innovación sostenible",
-						"institución": "universidad del desarrollo",
-						"año": "2021"
+					"duración": {
+						"años": "0",
+						"meses": "8"
 					}
-				],
-				"trabajo": [{
-						"cargo": "Diseñadora de ambientes y objetos",
-						"institución": "Christian Erdmann Studio Design",
-						"inicio": {
-							"año": "2019",
-							"mes": "10"
-						},
-						"duración": {
-							"años": "0",
-							"meses": "8"
-						}
+				},
+				{
+					"cargo": "Diseñadora de ambientes y objetos",
+					"institución": "Nave de Diseño",
+					"inicio": {
+						"año": "2018",
+						"mes": "09"
 					},
-					{
-						"cargo": "Diseñadora de ambientes y objetos",
-						"institución": "Nave de Diseño",
-						"inicio": {
-							"año": "2018",
-							"mes": "09"
-						},
-						"duración": {
-							"años": "1",
-							"meses": "0"
-						}
-					},
-					{
-						"cargo": "Farm Manager",
-						"institución": "Tresdp",
-						"inicio": {
-							"año": "2018",
-							"mes": "06"
-						},
-						"duración": {
-							"años": "0",
-							"meses": "3"
-						}
-					},
-					{
-						"cargo": "CEO & Fundadora",
-						"institución": "Bewood Chile",
-						"inicio": {
-							"año": "2017",
-							"mes": "01"
-						},
-						"duración": {
-							"años": "2",
-							"meses": "0"
-						}
+					"duración": {
+						"años": "1",
+						"meses": "0"
 					}
-				]
-			}]
+				},
+				{
+					"cargo": "Farm Manager",
+					"institución": "Tresdp",
+					"inicio": {
+						"año": "2018",
+						"mes": "06"
+					},
+					"duración": {
+						"años": "0",
+						"meses": "3"
+					}
+				},
+				{
+					"cargo": "CEO & Fundadora",
+					"institución": "Bewood Chile",
+					"inicio": {
+						"año": "2017",
+						"mes": "01"
+					},
+					"duración": {
+						"años": "2",
+						"meses": "0"
+					}
+				}
+			]
 		}
 	]
 }
