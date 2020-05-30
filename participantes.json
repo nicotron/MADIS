@@ -673,47 +673,39 @@
 			]
 		},
 		{
-  "descripción":"lista de participantes en el curso",
-  "participantes":[
-    {
-      "nombre":"Eloina Pose Lioi",
-      "fecha_de_nacimiento":"26091993",
-      "estudios":[
-        {
-          "nivel":"pregrado",
-          "titulo":"Administradora de servicios y empresas",
-          "institución":"Universidad Los Andes",
-          "año":"2016"
-        },
-        {
-          "nivel":"postgrado",
-          "titulo":"magister en diseño e innovación sostenible",
-          "institución":"universidad del desarrollo",
-          "año":"2021"
-        },
-        {
-          "nivel":"Minor",
-          "titulo":"Minor en sociología",
-          "institución":"universidad Los Andes",
-          "año":"2014"
-        }
-      ],
-      "trabajo":[
-        {
-          "cargo":"Jefa de operaciones",
-          "institución":"Papermark",
-          "inicio":{
-            "año":"2016",
-            "mes":"07"
-          },
-          "duración":{
-            "años":"3",
-            "meses":"10"
-          }
-        }
-      ]
-    }
-  ]
-}
+			"nombre": "Eloina Pose Lioi",
+			"fecha_de_nacimiento": "26091993",
+			"estudios": [{
+					"nivel": "pregrado",
+					"titulo": "Administradora de servicios y empresas",
+					"institución": "Universidad Los Andes",
+					"año": "2016"
+				},
+				{
+					"nivel": "postgrado",
+					"titulo": "magister en diseño e innovación sostenible",
+					"institución": "universidad del desarrollo",
+					"año": "2021"
+				},
+				{
+					"nivel": "Minor",
+					"titulo": "Minor en sociología",
+					"institución": "universidad Los Andes",
+					"año": "2014"
+				}
+			],
+			"trabajo": [{
+				"cargo": "Jefa de operaciones",
+				"institución": "Papermark",
+				"inicio": {
+					"año": "2016",
+					"mes": "07"
+				},
+				"duración": {
+					"años": "3",
+					"meses": "10"
+				}
+			}]
+		}
 	]
 }
