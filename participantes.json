@@ -438,94 +438,95 @@
 				}
 			]
 		},
-	{
-	"nombre": "Claudio Moreira González",
-	"fecha_de_nacimiento": "26091979",
-	"estudios": [{
-			"nivel": "pregrado",
-			"titulo": "Diseñador Gráfico Profesional",
-			"institución": "INACAP"
-			"año": "2005"
-		},
 		{
-			"nivel": "postgrado",
-			"titulo": "magister en diseño e innovación sostenible",
-			"institución": "Universidad del desarrollo",
-			"año": "2020"
-		}
-	],
-	"trabajo": [{
-			"cargo": "coordinador de carrera área informática y telecomunicaciones",
-			"institución": "Inacap sede puente alto",
-			"inicio": {
-				"año": "2019",
-				"mes": "03"
-			},
-			"duración": {
-				"años": "1",
-				"meses": "2"
-			}
-		},
-		{
-			"cargo": "coordinador de carrera área Electricidad y electrónica",
-			"institución": "Inacap",
-			"inicio": {
-				"año": "2018",
-				"mes": "03"
-			},
-			"duración": {
-				"años": "1"
-				"meses": "2"
-			}
-		},
-		{
-			"cargo": "coordinador de sede jornada vespertina",
-			"Insitución": "Inacap",
-			"inicio": {
-				"año": "2016",
-				"meses": "12"
-			},
-			"duración": {
-				"años": "1"
-				"meses": "3"
-			}
-		},
-		{
-			"cargo": "director de asuntos estudiantiles y comunicaciones",
-			"institución": "Inacap sede puente alto",
-			"inicio": {
-				"año": "2013",
-				"mes": "08"
-			},
-			"duración": {
-				"años": "3",
-				"meses": "2"
-			}
-		},
-		{
-			"cargo": "encargado de marketing y comunicaciones",
-			"institución": "Inacap vicerrectoría de innovación y postgrado"
-			"inicio": {
-				"año": "2012",
-				"mes": "08"
-			},
-			"duración": {
-				"años": "1",
-				"meses": "8"
-			}
-		},
-		{
-			"cargo": "diseñadro gráfico",
-			"institución": "Inacap sede apoquindo"
-			"inicio": {
-				"año": "2009",
-				"mes": "9"
-			},
-			"duración": {
-				"años": "3",
-				"meses": "1"
-			}
+			"nombre": "Claudio Moreira González",
+			"fecha_de_nacimiento": "26091979",
+			"estudios": [{
+					"nivel": "pregrado",
+					"titulo": "Diseñador Gráfico Profesional",
+					"institución": "INACAP"
+					"año": "2005"
+				},
+				{
+					"nivel": "postgrado",
+					"titulo": "magister en diseño e innovación sostenible",
+					"institución": "Universidad del desarrollo",
+					"año": "2020"
+				}
+			],
+			"trabajo": [{
+					"cargo": "coordinador de carrera área informática y telecomunicaciones",
+					"institución": "Inacap sede puente alto",
+					"inicio": {
+						"año": "2019",
+						"mes": "03"
+					},
+					"duración": {
+						"años": "1",
+						"meses": "2"
+					}
+				},
+				{
+					"cargo": "coordinador de carrera área Electricidad y electrónica",
+					"institución": "Inacap",
+					"inicio": {
+						"año": "2018",
+						"mes": "03"
+					},
+					"duración": {
+						"años": "1"
+						"meses": "2"
+					}
+				},
+				{
+					"cargo": "coordinador de sede jornada vespertina",
+					"Insitución": "Inacap",
+					"inicio": {
+						"año": "2016",
+						"meses": "12"
+					},
+					"duración": {
+						"años": "1"
+						"meses": "3"
+					}
+				},
+				{
+					"cargo": "director de asuntos estudiantiles y comunicaciones",
+					"institución": "Inacap sede puente alto",
+					"inicio": {
+						"año": "2013",
+						"mes": "08"
+					},
+					"duración": {
+						"años": "3",
+						"meses": "2"
+					}
+				},
+				{
+					"cargo": "encargado de marketing y comunicaciones",
+					"institución": "Inacap vicerrectoría de innovación y postgrado"
+					"inicio": {
+						"año": "2012",
+						"mes": "08"
+					},
+					"duración": {
+						"años": "1",
+						"meses": "8"
+					}
+				},
+				{
+					"cargo": "diseñadro gráfico",
+					"institución": "Inacap sede apoquindo"
+					"inicio": {
+						"año": "2009",
+						"mes": "9"
+					},
+					"duración": {
+						"años": "3",
+						"meses": "1"
+					}
+				}
+			]
 		}
 	]
-}]
 }
