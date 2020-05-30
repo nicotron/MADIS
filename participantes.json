@@ -833,140 +833,140 @@
 			"estudios": [{
 					"nivel": "pregrado",
 					"titulo": "diseñadora grafica",
-					"institución": "universidad privada boliviana",
-					"año": "2005"
+					"institucion": "universidad privada boliviana",
+					"year": 2005
 				},
 				{
 					"nivel": "pregrado",
 					"titulo": "marketing y logistica",
-					"institución": "universidad privada boliviana",
-					"año": "2015"
+					"institucion": "universidad privada boliviana",
+					"year": 2015
 				},
 				{
 					"nivel": "diplomado",
 					"titulo": "marketing digital",
-					"institución": "universidad privada boliviana",
-					"año": "2015"
+					"institucion": "universidad privada boliviana",
+					"year": 2015
 				}
 			],
 			"trabajo": [{
 					"cargo": "diseñadora grafica",
-					"institución": "Chromart BTL-Outdoors",
+					"institucion": "Chromart BTL-Outdoors",
 					"inicio": {
-						"año": "2006",
-						"mes": "01"
+						"year": 2006,
+						"mes": 1
 					},
-					"duración": {
-						"años": "1",
-						"meses": "5"
+					"duracion": {
+						"years": 1,
+						"meses": 5
 					}
 				},
 				{
 					"cargo": "diseñadora grafica / actualizadora web",
-					"institución": "intergraphics dinamarca outsoursing",
+					"institucion": "intergraphics dinamarca outsoursing",
 					"inicio": {
-						"año": "2008",
-						"mes": "01"
+						"year": 2008,
+						"mes": 1
 					},
-					"duración": {
-						"años": "1",
-						"meses": "1"
+					"duracion": {
+						"years": 1,
+						"meses": 1
 					}
 				},
 				{
 					"cargo": "diagramadora de libros",
-					"institución": "Editorial Verbo Divino",
+					"institucion": "Editorial Verbo Divino",
 					"inicio": {
-						"año": "2010",
-						"mes": "04"
+						"year": 2010,
+						"mes": 4
 					},
-					"duración": {
-						"años": "2",
-						"meses": "5"
+					"duracion": {
+						"years": 2,
+						"meses": 5
 					}
 				},
 				{
 					"cargo": "Directora Creativa",
-					"institución": "Chromart BTL-Outdoors",
+					"institucion": "Chromart BTL-Outdoors",
 					"inicio": {
-						"año": "2009",
-						"mes": "01"
+						"year": 2009,
+						"mes": 1
 					},
-					"duración": {
-						"años": "3",
-						"meses": "4"
+					"duracion": {
+						"years": 3,
+						"meses": 4
 					}
 				},
 				{
 					"cargo": "diseñadora grafica",
-					"institución": "2be Estrategia y Publicidad",
+					"institucion": "2be Estrategia y Publicidad",
 					"inicio": {
-						"año": "2012",
-						"mes": "01"
+						"year": 2012,
+						"mes": 1
 					},
-					"duración": {
-						"años": "1",
-						"meses": "1"
+					"duracion": {
+						"years": 1,
+						"meses": 1
 					}
 				},
 				{
 					"cargo": "diagramadora de libros",
-					"institución": "Bodegas Aranjuez",
+					"institucion": "Bodegas Aranjuez",
 					"inicio": {
-						"año": "2012",
-						"mes": "01"
+						"year": 2012,
+						"mes": 1
 					},
-					"duración": {
-						"años": "1",
-						"meses": "1"
+					"duracion": {
+						"years": 1,
+						"meses": 1
 					}
 				},
 				{
 					"cargo": "Marketing outsoursing inhouse",
-					"institución": "Abrakadabrand",
+					"institucion": "Abrakadabrand",
 					"inicio": {
-						"año": "2013",
-						"mes": "11"
+						"year": 2013,
+						"mes": 11
 					},
-					"duración": {
-						"años": "0",
-						"meses": "9"
+					"duracion": {
+						"years": 0,
+						"meses": 9
 					}
 				},
 				{
 					"cargo": "Brand Manager/Estratega digital",
-					"institución": "Connaxis",
+					"institucion": "Connaxis",
 					"inicio": {
-						"año": "2016",
-						"mes": "01"
+						"year": 2016,
+						"mes": 1
 					},
-					"duración": {
-						"años": "1",
-						"meses": "12"
+					"duracion": {
+						"years": 1,
+						"meses": 12
 					}
 				},
 				{
 					"cargo": "Tallerista",
-					"institución": "Connaxis",
+					"institucion": "Connaxis",
 					"inicio": {
-						"año": "2018",
-						"mes": "01"
+						"year": 2018,
+						"mes": 1
 					},
-					"duración": {
-						"años": "0",
-						"meses": "1"
+					"duracion": {
+						"years": 0,
+						"meses": 1
 					}
 				},
 				{
 					"cargo": "Gerente de Marketing",
-					"institución": "Grupo Impulse",
+					"institucion": "Grupo Impulse",
 					"inicio": {
-						"año": "2017",
-						"mes": "01"
+						"year": 2017,
+						"mes": 1
 					},
-					"duración": {
-						"años": "2",
-						"meses": "1"
+					"duracion": {
+						"years": 2,
+						"meses": 1
 					}
 				}
 			]
